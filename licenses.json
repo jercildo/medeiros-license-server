@@ -1,16 +1,43 @@
 [
   {
-    "key": "MEDEIROS-TESTE-7D",
-    "customer": "Cliente Teste",
-    "duration_days": 7,
-    "machine_id": "FB3E-F729-E06F-5373",
-    "activated_at": "2026-04-12T11:14:05.200Z",
-    "expires_at": "2026-04-19T11:14:05.200Z",
+    "key": "MD-7X2K-9Q4P-3L8A",
+    "customer": "Cliente 1",
+    "duration_days": 30,
+    "machine_id": null,
+    "activated_at": null,
+    "expires_at": null,
     "active": true
   },
   {
-    "key": "MEDEIROS-30D-001",
-    "customer": "Cliente 30 Dias",
+    "key": "MD-A4T9-2KQ7-LP6X",
+    "customer": "Cliente 2",
+    "duration_days": 30,
+    "machine_id": null,
+    "activated_at": null,
+    "expires_at": null,
+    "active": true
+  },
+  {
+    "key": "MD-Z8M3-5QP1-RK7D",
+    "customer": "Cliente 3",
+    "duration_days": 30,
+    "machine_id": null,
+    "activated_at": null,
+    "expires_at": null,
+    "active": true
+  },
+  {
+    "key": "MD-3QK8-XL2P-7M9A",
+    "customer": "Cliente 4",
+    "duration_days": 30,
+    "machine_id": null,
+    "activated_at": null,
+    "expires_at": null,
+    "active": true
+  },
+  {
+    "key": "MD-P9X2-4KLM-8Q7T",
+    "customer": "Cliente 5",
     "duration_days": 30,
     "machine_id": null,
     "activated_at": null,
