@@ -5,7 +5,7 @@ const path = require("path");
 
 const app = express();
 const PORT = process.env.PORT || 3001;
-const DB_FILE = process.env.DB_FILE || path.join(__dirname, "licenses.json");
+const DB_FILE = path.join(__dirname, "licenses.json");
 
 app.use(cors());
 app.use(express.json());
