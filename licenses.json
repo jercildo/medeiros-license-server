@@ -1,0 +1,20 @@
+[
+  {
+    "key": "MEDEIROS-TESTE-7D",
+    "customer": "Cliente Teste",
+    "duration_days": 7,
+    "machine_id": "FB3E-F729-E06F-5373",
+    "activated_at": "2026-04-12T11:14:05.200Z",
+    "expires_at": "2026-04-19T11:14:05.200Z",
+    "active": true
+  },
+  {
+    "key": "MEDEIROS-30D-001",
+    "customer": "Cliente 30 Dias",
+    "duration_days": 30,
+    "machine_id": null,
+    "activated_at": null,
+    "expires_at": null,
+    "active": true
+  }
+]
