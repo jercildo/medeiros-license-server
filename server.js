@@ -137,7 +137,10 @@ app.post("/validate", (req, res) => {
         expires_at: lic.expires_at
     });
 });
-
+app.get("/licenses", (_req, res) => {
+  const db = readDb();
+  res.json(db);
+});
 app.listen(PORT, () => {
     console.log(`License server rodando em http://localhost:${PORT}`);
 });
