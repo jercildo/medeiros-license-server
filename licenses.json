@@ -2,7 +2,7 @@
   {
     "key": "MD-7X2K-9Q4P-3L8A",
     "customer": "Cliente 1",
-    "duration_days": 30,
+    "duration_days": 999,
     "machine_id": null,
     "activated_at": null,
     "expires_at": null,
